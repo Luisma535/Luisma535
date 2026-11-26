@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 hero visual" />
 </p>
 
-<p align="center"><b>Luis Manuel Santos Reinoso</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+<p align="center"><b>Luis Manuel Santos Reinoso</b> ·Software Engineer & FullStack Developer <br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/luisma535">GitHub</a> · <a href="https://luisma535.github.io">Website</a> · <a href="https://x.com/Luisma5352">X</a></p>
 
