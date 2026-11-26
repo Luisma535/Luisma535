@@ -1,39 +1,68 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 hero visual" />
+</p>
 
-###
+<p align="center"><b>Luis Manuel Santos Reinoso</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-</div>
+<p align="center"><a href="https://github.com/luisma535">GitHub</a> · <a href="https://luisma535.github.io">Website</a> · <a href="https://x.com/Luisma5352">X</a></p>
 
-###
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<div align="left">
-  <a href="luismanuelsantos@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 projects visual" />
+</p>
 
-###
+- [Chat-JavaScript](https://github.com/Luisma535/Chat-JavaScript) · ★ 4 — Simple Chat inventen con el ;-;
+- [JWT-Generator](https://github.com/Luisma535/JWT-Generator) · ★ 3 — Generador de JWT 
+- [Encriptadora](https://github.com/Luisma535/Encriptadora) · ★ 2 — Encriptadora con bcryptjs
+- [Reloj-Web](https://github.com/Luisma535/Reloj-Web) · ★ 1 — Simple reloj-web ;)
+- [Biblioteca-API](https://github.com/Luisma535/Biblioteca-API) · ★ 0
+- [Luisma535](https://github.com/Luisma535/Luisma535) · ★ 0
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>9</b> public repositories, <b>10</b> stars, <b>8</b> contributions in the last year, a longest streak of <b>2</b> days and <b>16</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=luisma535&theme=neon" alt="luisma535 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Luis Manuel Santos Reinoso · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
