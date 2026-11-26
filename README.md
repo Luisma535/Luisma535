@@ -2,9 +2,14 @@
   <img src="https://www.gitskins.com/api/section/hero?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 hero visual" />
 </p>
 
-<p align="center"><b>Luis Manuel Santos Reinoso</b> ·Software Engineer & FullStack Developer <br/><sub>Building in public on GitHub.</sub></p>
+<br/>
+
+<p align="center"><b>Luis Manuel Santos Reinoso</b> · Software Engineer & FullStack Developer <br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/luisma535">GitHub</a> · <a href="https://luisma535.github.io">Website</a> · <a href="https://x.com/Luisma5352">X</a></p>
+
+<br/>
+<br/>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
@@ -13,6 +18,8 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/projects?username=luisma535&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76691533%3Fu%3D03892286d26490d29cecbd47db2867081887cf21%26v%3D4" alt="luisma535 projects visual" />
 </p>
+
+<br/>
 
 - [Chat-JavaScript](https://github.com/Luisma535/Chat-JavaScript) · ★ 4 — Simple Chat inventen con el ;-;
 - [JWT-Generator](https://github.com/Luisma535/JWT-Generator) · ★ 3 — Generador de JWT 
@@ -23,6 +30,9 @@
 
 </details>
 
+<br/>
+<br/>
+
 <details>
 <summary><b>🧰 Stack</b></summary>
 <br/>
@@ -32,6 +42,9 @@
 </p>
 
 </details>
+
+<br/>
+<br/>
 
 <details>
 <summary><b>📊 By the numbers</b></summary>
@@ -45,6 +58,9 @@
 
 </details>
 
+<br/>
+<br/>
+
 <details>
 <summary><b>🟩 Activity</b></summary>
 <br/>
@@ -55,6 +71,9 @@
 
 </details>
 
+<br/>
+<br/>
+
 <details>
 <summary><b>👋 Say hello</b></summary>
 <br/>
@@ -64,5 +83,8 @@
 </p>
 
 </details>
+
+<br/>
+<br/>
 
 <p align="center"><sub>Luis Manuel Santos Reinoso · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
